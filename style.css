@@ -1,0 +1,54 @@
+.container{
+    width: 430px; 
+    background:#f1c40f; 
+    color: #777f3e;
+}
+
+h1{
+    text-align: center; 
+    background-color: #222f3e; 
+    color:#f1c40f;
+}
+h3{
+    text-align: center;
+}
+table{
+    width:400px;
+}
+.input1{
+    type:text;
+    maxlength:50px; 
+    size:30px;
+    
+}
+
+input2{
+    text:text; 
+     maxlength:50px; 
+     size:30px;
+}
+
+input3{
+    type:"email";
+     maxlength:50px; 
+     size:30px;
+}
+.input4{
+    background-color: #222f3e;
+    color: #f1c40f;
+    width:80px; 
+    height:30px ;
+}
+.input5{
+background-color: #222f3e;
+color: #f1c40f;
+width:80px; 
+height:30px ;
+}
+
+.td1{
+    colspan:20px; 
+    text-align: center;
+}
+
+
